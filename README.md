@@ -37,10 +37,13 @@ Instructions on how to configure your app.
 
 **Customization**
 - In `src/config` folder is a bunch of `.js` file with plenty of strings costumization:
-  -`colors.js`: here you can change the app colors;
-  -`labels.js`: here you can change the page labels;
-  -`placeholders.js`: here you can change the inputs placeholders;
-  -`toastMessages.js`: here you can change alert messages strings.
+  - `colors.js`: here you can change the app colors;
+
+  - `labels.js`: here you can change the page labels;
+
+  - `placeholders.js`: here you can change the inputs placeholders;
+
+  - `toastMessages.js`: here you can change alert messages strings.
 
 **Database Fetch**
 - In `src/services/axios.js`, you may want to insert the URL where your database with the API REST is located.
@@ -115,10 +118,14 @@ Instruções de como configurar o aplicativo.
 
 **Customização**
 - Em `src/config` há alguns arquivos `.js` com várias customizações disponíveis:
-  -`colors.js`: aqui você pode mudar as cores do aplicativo;
-  -`labels.js`: aqui você pode mudar os rótulos;
-  -`placeholders.js`: aqui você pode mudar os placeholders;
-  -`toastMessages.js`: aqui você pode mudar as mensagens de alerta.
+
+  - `colors.js`: aqui você pode mudar as cores do aplicativo;
+
+  - `labels.js`: aqui você pode mudar os rótulos;
+
+  - `placeholders.js`: aqui você pode mudar os placeholders;
+
+  - `toastMessages.js`: aqui você pode mudar as mensagens de alerta.
 
 **Busca no Banco de Dados**
 - Em `src/services/axios.js`, você deve inserir a URL onde sua base de dados com sua API está alocada.
