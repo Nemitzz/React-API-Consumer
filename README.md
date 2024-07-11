@@ -8,12 +8,16 @@
 
 An React app that consumes my token based API REST.
 
+---
+
 ## Index
 
 1. [Instalation](#instalation)
 2. [Config](#config)
 3. [Usage](#usage)
 4. [Extras](#extras)
+
+---
 
 ## Instalation
 
@@ -24,6 +28,8 @@ In your terminal (VSCode, GIT Bash, Windows, etc.):
 - Clone the repository: `git clone <repository_url>`
 - Go to the cloned repository folder: `cd your_folder_name`
 - Install the dependencies: `npm install`
+
+---
 
 ## Configuration
 
@@ -39,6 +45,8 @@ Instructions on how to configure your app.
 **Database Fetch**
 - In `src/services/axios.js`, you may want to insert the URL where your database with the API REST is located.
 
+---
+
 ## Usage
 
 Instructions on how to run your application.
@@ -50,7 +58,9 @@ Instructions on how to run your application.
   -A tab in your browser should open automatically.
   -The application runs locally on port `:3000`, so if you are using a local database, do not use the same port. The same goes for running the API locally;
 
-  ## Extras
+---
+
+## Extras
 
   - **Technologies Used**
     -Javascript
@@ -76,12 +86,16 @@ Instructions on how to run your application.
 
 Um app em React que consome minha API baseada em tokens.
 
+---
+
 ## Index
 
 1. [Instalação](#instalação)
 2. [Configuração](#configuração)
 3. [Uso](#uso)
 4. [Extra](#extra)
+
+---
 
 ## Instalação
 
@@ -92,6 +106,8 @@ No seu terminal (VSCode, GIT Bash, Windows, etc.):
 - Clone o repositório: `git clone <repository_url>`
 - Vá para a pasta do repositório clonado: `cd nome_da_sua_pasta`
 - Instale as dependências: `npm install`
+
+---
 
 ## Configuração
 
@@ -107,6 +123,8 @@ Instruções de como configurar o aplicativo.
 **Busca no Banco de Dados**
 - Em `src/services/axios.js`, você deve inserir a URL onde sua base de dados com sua API está alocada.
 
+---
+
 ## Uso
 
 Instruções de como rodar a aplicação.
@@ -118,7 +136,9 @@ Instruções de como rodar a aplicação.
   -Uma aba no seu navegador deve abrir automaticamente.
   -O aplicativo roda localmente na porta `:3000`, então se estiver usando um banco de dados local, não use a mesma porta. O mesmo vale se estiver usando a API localmente.
 
-  ## Extra
+---
+
+## Extra
 
   - **Tecnologias usadas**
     -Javascript
