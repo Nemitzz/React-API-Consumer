@@ -66,8 +66,8 @@ Instructions on how to run your application.
 ## Extras
 
   - **Technologies Used**
-    -Javascript
-    -NodeJS;
+    -JavaScript
+    -Node.js;
     -React (ReactDOM, Redux, Reducer, Persist, Saga);
     -HTML;
     -CSS.
@@ -148,8 +148,8 @@ Instruções de como rodar a aplicação.
 ## Extra
 
   - **Tecnologias usadas**
-    -Javascript
-    -NodeJS;
+    -JavaScript
+    -Node.js;
     -React (ReactDOM, Redux, Reducer, Persist, Saga);
     -HTML;
     -CSS.
