@@ -66,11 +66,11 @@ Instructions on how to run your application.
 ## Extras
 
   - **Technologies Used**
-    -JavaScript
-    -Node.js;
-    -React (ReactDOM, Redux, Reducer, Persist, Saga);
-    -HTML;
-    -CSS.
+    - JavaScript
+    - Node.js
+    - React (ReactDOM, Redux, Reducer, Persist, Saga)
+    - HTML
+    - CSS
 
 - The documentation for how the API works is [HERE](https://github.com/Nemitzz/TOKEN-BASED-API-REST)
 
@@ -148,11 +148,11 @@ Instruções de como rodar a aplicação.
 ## Extra
 
   - **Tecnologias usadas**
-    -JavaScript
-    -Node.js;
-    -React (ReactDOM, Redux, Reducer, Persist, Saga);
-    -HTML;
-    -CSS.
+    - JavaScript
+    - Node.js
+    - React (ReactDOM, Redux, Reducer, Persist, Saga)
+    - HTML
+    - CSS
 
 - A documentação da API e de como ela funciona está [AQUI](https://github.com/Nemitzz/TOKEN-BASED-API-REST)
 
